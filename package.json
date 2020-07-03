@@ -18,5 +18,11 @@
   "devDependencies": {
     "del-cli": "^3.0.1",
     "typescript": "^3.9.6"
+  },
+  "dependencies": {
+    "@types/express": "^4.17.6",
+    "@types/jsonwebtoken": "^8.5.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
   }
 }
